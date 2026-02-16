@@ -1,0 +1,5 @@
+a = set()
+a.add(20.0)
+a.add(20)
+a.add('20')
+print(len(a)) # will be 2 since 20.0 and 20 will be merged because(20.0 == 20 true and hash(20.0)== hash(20) true)
