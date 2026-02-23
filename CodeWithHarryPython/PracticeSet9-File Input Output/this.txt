@@ -1,0 +1,2 @@
+Hello this a text log file.
+With dummy sentences.
